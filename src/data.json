@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "artist": "Big Thief",
+    "title": "Capacity",
+    "year": 2017,
+    "image": "https://media.pitchfork.com/photos/5929c52b13d197565213bf5e/1:1/w_320/eba85297.jpg"
+  },
+  {
+    "id": 1,
+    "artist": "Nine Inch Nails",
+    "title": "Hesitation Marks",
+    "year": 2013,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71nsspyjvOL._SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "artist": "Modest Mouse",
+    "title": "The Lonesome Crowded West",
+    "year": 1997,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/MMLonesomeCrowdedWest.jpg"
+  },
+  {
+    "id": 3,
+    "artist": "Chromatics",
+    "title": "Kill For Love",
+    "year": 2013,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Chromatics_-_Kill_for_Love.png"
+  },
+  {
+    "id": 4,
+    "artist": "King Krule",
+    "title": "Man Alive",
+    "year": 2020,
+    "image": "https://media.pitchfork.com/photos/5e4d5209f98c800008cf6620/1:1/w_600/King-Krule-Man-Alive.jpg"
+  }
+]
