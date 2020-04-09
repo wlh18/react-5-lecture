@@ -18,4 +18,5 @@ const Album = (props) => {
     </div>
   )
 }
+
 export default withRouter(Album)
